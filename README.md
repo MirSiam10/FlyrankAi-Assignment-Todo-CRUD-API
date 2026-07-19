@@ -4,6 +4,7 @@ A small in-memory to-do list API — built for FlyRank Internship, Backend Track
 
 Supports full CRUD (Create, Read, Update, Delete) on tasks, with interactive Swagger docs.
 
+<img width="957" height="511" alt="api" src="https://github.com/user-attachments/assets/93aa83e4-a0fc-4af6-9e16-7449ea078dfd" />
 
 ## How to run
 
