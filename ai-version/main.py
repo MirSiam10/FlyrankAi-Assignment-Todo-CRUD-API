@@ -1,12 +1,12 @@
-from fastapi import FastAPI, HTTPException
-from pydantic import BaseModel
+from fastapi import FastAPI, HTTPException  # type: ignore[import]
+from pydantic import BaseModel  # type: ignore[import]
 from typing import Optional
 
 app = FastAPI()
 
 tasks = [
     {"id": 1, "title": "Buy milk", "done": False},
-    {"id": 2, "title": "Write README", "done": False},
+    {"id": 2, "title": "Write git initREADME", "done": False},
     {"id": 3, "title": "Learn FastAPI", "done": True},
 ]
 next_id = 4
