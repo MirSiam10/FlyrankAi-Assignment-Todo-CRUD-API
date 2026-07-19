@@ -39,9 +39,8 @@ content-type: application/json
 
 ## Swagger UI
 
-![Swagger UI screenshot](swagger-screenshot.png)
-
-*(Take your own screenshot from `http://localhost:8000/docs` after trying the CRUD cycle via "Try it out", and drop it in this folder as `swagger-screenshot.png`.)*
+![Swagger UI screenshot] (<img width="368" height="344" alt="a1" src="https://github.com/user-attachments/assets/5589e5dc-f368-41f0-a497-8a6491b4b59f" />
+)
 
 ## The mortality experiment
 
