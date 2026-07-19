@@ -4,6 +4,7 @@ A small in-memory to-do list API — built for FlyRank Internship, Backend Track
 
 Supports full CRUD (Create, Read, Update, Delete) on tasks, with interactive Swagger docs.
 
+
 ## How to run
 
 ```bash
@@ -38,8 +39,6 @@ content-type: application/json
 ```
 
 ## Swagger UI
-
-<img width="957" height="511" alt="api" src="https://github.com/user-attachments/assets/daa0a98d-0ca8-4336-9962-f4a23d801be8" />
 
 <img width="368" height="344" alt="a1" src="https://github.com/user-attachments/assets/5589e5dc-f368-41f0-a497-8a6491b4b59f" />
 
