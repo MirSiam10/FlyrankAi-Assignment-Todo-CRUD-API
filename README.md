@@ -39,8 +39,8 @@ content-type: application/json
 
 ## Swagger UI
 
-![Swagger UI screenshot] (<img width="368" height="344" alt="a1" src="https://github.com/user-attachments/assets/5589e5dc-f368-41f0-a497-8a6491b4b59f" />
-)
+<img width="368" height="344" alt="a1" src="https://github.com/user-attachments/assets/5589e5dc-f368-41f0-a497-8a6491b4b59f" />
+
 
 ## The mortality experiment
 
